@@ -1,0 +1,2 @@
+# vncserver
+vncserver install
